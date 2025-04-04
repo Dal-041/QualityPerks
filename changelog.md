@@ -1,0 +1,1 @@
+Identical to Quality Captains with the same version number, just without the other skills.

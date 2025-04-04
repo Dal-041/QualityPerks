@@ -1,0 +1,11 @@
+{
+    "id": "QualityPerks",
+    "name": "Quality Perks",
+    "author": "Dal",
+    "utility": "false",
+    "version": "1.6.9",
+    "description": "Adds the perks featured in Quality Captains, QC not included.",
+    "gameVersion": "0.98a",
+	"jars": ["jars/Perks.jar",],
+	"modPlugin":"dal.plugins.Perks_ModPlugin",
+}

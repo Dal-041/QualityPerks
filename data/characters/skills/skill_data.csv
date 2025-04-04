@@ -1,0 +1,15 @@
+id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon
+# Custom,,,,,,,,,,,,
+aptitude_milestones,,0,,,,,,,,,,graphics/icons/skills/category_milestones.png
+,,,,,,,,,,,,
+captains_academician,Academician,5001,10,10,,"If we're not counting the generous commission, the pursuit of knowledge is its own reward.",Galatea Academy Freelancer,,TRUE,,player_only,graphics/icons/skills/captains_academician.png
+captains_babylon,Babylonian,5002,10,10,,"Once we were united, a people and one. Now we are shattered, and we remember your crime.",Unknown ,,TRUE,,player_only,graphics/icons/skills/captains_babylon.png
+captains_unbound,Unbound,5003,10,10,,When all the doors are open and all ears hear the music.,Sermon – 'Upon the Precipe',,TRUE,,player_only,graphics/icons/skills/captains_unbound.png
+captains_knight,Knight,5005,10,10,,"On a fine day I set out upon the sea. There I found monsters, who I slew, sirens, who promised merry, and my quarry, who sought death.","The Lost Pilgrim, 2nd Edition",,TRUE,,player_only,graphics/icons/skills/captains_knight.png
+captains_underworld,Baron,5006,10,10,,"As a rule, I don't find it productive to dwell upon the psychology of insane pirates.",Anahita Baird,,TRUE,,player_only,graphics/icons/skills/captains_underworld.png
+captains_prince,Prince,5007,10,10,,Let the nobler man win.,Magnus Cardona,,TRUE,,player_only,graphics/icons/skills/captains_prince.png
+captains_lucifer,Lucifer,5008,10,10,,"I am become death, the destroyer of worlds.",Once you were innocent,,TRUE,,player_only,graphics/icons/skills/captains_lucifer.png
+captains_usurper,Usurper,5004,10,10,,When I provide victory at the time and place of my choosing history shall absolve me of the sacrifice of a planet or two.,"Fleet Admiral Andrada, address to the Hegemony executive council ",,TRUE,,player_only,graphics/icons/skills/captains_usurper.png
+captains_omega,Alpha and Omega,5009,10,10,,"When a great event has occurred we are forced to ask: is this the beginning of the end, or the end of the beginning?",Datalinks,,TRUE,,player_only,graphics/icons/skills/captains_omega.png
+captains_ascendance,Ascendance,5010,10,10,,"Fly me to the moon, and let me play among the stars. Let me see what spring is like on... Jupiter and Mars.",Ancient human entertainer,,TRUE,,player_only,graphics/icons/skills/captains_ascendance.png
+captains_starfarer,Starfarer,5011,11,10,,"In other words, please be true! In other words...",A Quality Captain,,TRUE,,player_only,graphics/icons/skills/captains_starfarer.png

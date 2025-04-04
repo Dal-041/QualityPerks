@@ -1,0 +1,13 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/Dal-041/QualityCaptains/master/qp.version",
+  "modName": "Quality Perks",
+  "modThreadId": "21038",
+  "directDownloadURL": "https://github.com/Dal-041/QualityPerks/releases/latest/download/Quality.Perks.zip",
+  "changelogURL": "https://raw.githubusercontent.com/Dal-041/QualityPerks/master/changelog.md",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "6",
+      "patch": "9"
+    }
+}
